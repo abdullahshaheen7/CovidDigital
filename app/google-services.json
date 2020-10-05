@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555521156945",
+    "firebase_url": "https://coviddigital-98aeb.firebaseio.com",
+    "project_id": "coviddigital-98aeb",
+    "storage_bucket": "coviddigital-98aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555521156945:android:36feb1c300804734355570",
+        "android_client_info": {
+          "package_name": "com.abdullahandroid.coviddigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555521156945-mfeds4pe9cd6vc0di1bo01a5umn7o079.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9eqq-sASOZCALEFFCHWot8YQ-4QUHieM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555521156945-mfeds4pe9cd6vc0di1bo01a5umn7o079.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
